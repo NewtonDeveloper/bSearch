@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-
+#define N 10
 #define true 1
 
 typedef struct {
