@@ -2,6 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 
+#define true 1
 
 typedef struct {
     double x;
