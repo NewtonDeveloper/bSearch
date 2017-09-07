@@ -29,3 +29,6 @@ void calc_length(ext_vector *vec1) {
     vec1-> = sqrt(pow(vec1->vec.x, 2) + pow(vec
     ->vec.y, 2) + pow(vec1->vec.z, 2));
 }
+
+
+# this program isn 't finished yet
